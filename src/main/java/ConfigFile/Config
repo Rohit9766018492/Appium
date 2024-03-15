@@ -1,0 +1,5 @@
+deviceName=Pixel 5
+appPackage=com.google.android.apps.magazines
+appActivity=com.google.apps.dots.android.app.activity.CurrentsStartActivity
+% appPackage=com.google.android.calculator
+% appActivity=com.android.calculator2.Calculator

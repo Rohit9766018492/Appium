@@ -1,0 +1,527 @@
+2024-52-07 17:52:47.846 [main] INFO  Utility.LoggerInfo - App is open
+2024-52-07 17:52:47.848 [main] INFO  TestClass - Application Launch
+2024-52-07 17:52:52.071 [main] INFO  TestClass - Google news title present
+2024-55-07 17:55:30.150 [main] INFO  Utility.LoggerInfo - App is open
+2024-55-07 17:55:30.154 [main] INFO  TestClass - Application Launch
+2024-55-07 17:55:36.017 [main] INFO  TestClass - Google news title present
+2024-57-07 17:57:47.635 [main] INFO  Utility.LoggerInfo - App is open
+2024-57-07 17:57:47.637 [main] INFO  TestClass - Application Launch
+2024-57-07 17:57:53.628 [main] INFO  TestClass - Google news title present
+2024-59-07 17:59:03.631 [main] INFO  Utility.LoggerInfo - App is open
+2024-59-07 17:59:03.634 [main] INFO  TestClass - Application Launch
+2024-59-07 17:59:09.342 [main] INFO  TestClass - Google news title present
+2024-58-07 18:58:26.468 [main] INFO  Utility.LoggerInfo - App is open
+2024-58-07 18:58:26.471 [main] INFO  TestClass - Application Launch
+2024-58-07 18:58:31.957 [main] INFO  TestClass - Google news title present
+2024-59-07 18:59:16.776 [main] INFO  Utility.LoggerInfo - App is open
+2024-59-07 18:59:16.778 [main] INFO  TestClass - Application Launch
+2024-59-07 18:59:21.557 [main] INFO  TestClass - Google news title present
+2024-17-07 19:17:12.223 [main] INFO  Utility.LoggerInfo - App is open
+2024-17-07 19:17:12.225 [main] INFO  TestClass - Application Launch
+2024-17-07 19:17:18.324 [main] INFO  TestClass - Google news title present
+2024-35-08 10:35:11.357 [main] INFO  Utility.LoggerInfo - App is open
+2024-35-08 10:35:11.360 [main] INFO  TestClass - Application Launch
+2024-39-08 10:39:12.301 [main] INFO  Utility.LoggerInfo - App is open
+2024-39-08 10:39:12.304 [main] INFO  TestClass - Application Launch
+2024-40-08 10:40:49.574 [main] INFO  Utility.LoggerInfo - App is open
+2024-40-08 10:40:49.576 [main] INFO  TestClass - Application Launch
+2024-43-08 10:43:28.493 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-44-08 10:44:10.759 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-44-08 10:44:23.280 [main] INFO  Utility.LoggerInfo - App is open
+2024-44-08 10:44:23.280 [main] INFO  TestClass - Application Launch
+2024-45-08 10:45:21.683 [main] INFO  Utility.LoggerInfo - App is open
+2024-45-08 10:45:21.685 [main] INFO  TestClass - Application Launch
+2024-45-08 10:45:56.939 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-46-08 10:46:09.507 [main] INFO  Utility.LoggerInfo - App is open
+2024-46-08 10:46:09.507 [main] INFO  TestClass - Application Launch
+2024-47-08 10:47:51.780 [main] INFO  Utility.LoggerInfo - App is open
+2024-47-08 10:47:51.782 [main] INFO  TestClass - Application Launch
+2024-48-08 10:48:16.154 [main] INFO  Utility.LoggerInfo - App is open
+2024-48-08 10:48:16.156 [main] INFO  TestClass - Application Launch
+2024-53-08 10:53:03.666 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-53-08 10:53:16.440 [main] INFO  Utility.LoggerInfo - App is open
+2024-53-08 10:53:16.441 [main] INFO  TestClass - Application Launch
+2024-54-08 10:54:16.170 [main] INFO  Utility.LoggerInfo - App is open
+2024-54-08 10:54:16.172 [main] INFO  TestClass - Application Launch
+2024-06-08 11:06:11.782 [main] INFO  Utility.LoggerInfo - App is open
+2024-06-08 11:06:11.786 [main] INFO  TestClass - Application Launch
+2024-08-08 11:08:39.255 [main] INFO  Utility.LoggerInfo - App is open
+2024-08-08 11:08:39.257 [main] INFO  TestClass - Application Launch
+2024-08-08 11:08:43.617 [main] INFO  TestClass - Google news title present
+2024-09-08 11:09:26.549 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-09-08 11:09:39.099 [main] INFO  Utility.LoggerInfo - App is open
+2024-09-08 11:09:39.099 [main] INFO  TestClass - Application Launch
+2024-10-08 11:10:35.225 [main] INFO  Utility.LoggerInfo - App is open
+2024-10-08 11:10:35.227 [main] INFO  TestClass - Application Launch
+2024-11-08 11:11:18.361 [main] INFO  Utility.LoggerInfo - App is open
+2024-11-08 11:11:18.363 [main] INFO  TestClass - Application Launch
+2024-11-08 11:11:24.928 [main] INFO  TestClass - Google news title present
+2024-13-08 11:13:00.022 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-13-08 11:13:12.551 [main] INFO  Utility.LoggerInfo - App is open
+2024-13-08 11:13:12.552 [main] INFO  TestClass - Application Launch
+2024-13-08 11:13:41.607 [main] INFO  Utility.LoggerInfo - App is open
+2024-13-08 11:13:41.609 [main] INFO  TestClass - Application Launch
+2024-23-08 11:23:27.186 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-24-08 11:24:07.437 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-24-08 11:24:19.952 [main] INFO  Utility.LoggerInfo - App is open
+2024-24-08 11:24:19.952 [main] INFO  TestClass - Application Launch
+2024-25-08 11:25:39.872 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-25-08 11:25:52.400 [main] INFO  Utility.LoggerInfo - App is open
+2024-25-08 11:25:52.401 [main] INFO  TestClass - Application Launch
+2024-30-08 11:30:31.949 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-30-08 11:30:44.480 [main] INFO  Utility.LoggerInfo - App is open
+2024-30-08 11:30:44.480 [main] INFO  TestClass - Application Launch
+2024-33-08 11:33:38.595 [main] INFO  Utility.LoggerInfo - App is open
+2024-33-08 11:33:38.597 [main] INFO  TestClass - Application Launch
+2024-34-08 11:34:17.615 [main] INFO  Utility.LoggerInfo - App is open
+2024-34-08 11:34:17.617 [main] INFO  TestClass - Application Launch
+2024-35-08 11:35:14.934 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-35-08 11:35:55.695 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-36-08 11:36:11.556 [main] INFO  Utility.LoggerInfo - App is open
+2024-36-08 11:36:11.557 [main] INFO  TestClass - Application Launch
+2024-37-08 11:37:35.716 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-37-08 11:37:53.408 [main] INFO  Utility.LoggerInfo - App is open
+2024-37-08 11:37:53.409 [main] INFO  TestClass - Application Launch
+2024-37-08 11:37:57.543 [main] INFO  TestClass - Google news title present
+2024-39-08 11:39:00.802 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-39-08 11:39:13.335 [main] INFO  Utility.LoggerInfo - App is open
+2024-39-08 11:39:13.335 [main] INFO  TestClass - Application Launch
+2024-39-08 11:39:55.491 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-40-08 11:40:23.465 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-40-08 11:40:35.992 [main] INFO  Utility.LoggerInfo - App is open
+2024-40-08 11:40:35.992 [main] INFO  TestClass - Application Launch
+2024-41-08 11:41:26.544 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-41-08 11:41:44.043 [main] INFO  Utility.LoggerInfo - App is open
+2024-41-08 11:41:44.044 [main] INFO  TestClass - Application Launch
+2024-41-08 11:41:48.357 [main] INFO  TestClass - Google news title present
+2024-26-11 11:26:41.692 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-26-11 11:26:51.783 [main] INFO  BaseLayer.StartAppiumByCode - ---Stopping Appium Server----
+2024-30-11 11:30:38.883 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-30-11 11:30:48.922 [main] INFO  BaseLayer.StartAppiumByCode - ---Stopping Appium Server----
+2024-47-11 11:47:05.229 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-47-11 11:47:15.269 [main] INFO  BaseLayer.StartAppiumByCode - ---Stopping Appium Server----
+2024-06-11 12:06:58.818 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-07-11 12:07:09.922 [main] INFO  Utility.LoggerInfo - App is open
+2024-07-11 12:07:09.922 [main] INFO  TestClass - Application Launch
+2024-07-11 12:07:09.941 [main] INFO  BaseLayer.StartAppiumByCode - ---Stopping Appium Server----
+2024-12-11 12:12:53.508 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-13-11 12:13:12.478 [main] INFO  Utility.LoggerInfo - App is open
+2024-13-11 12:13:12.478 [main] INFO  TestClass - Application Launch
+2024-13-11 12:13:15.972 [main] INFO  TestClass - Google news title present
+2024-13-11 12:13:27.237 [main] INFO  BaseLayer.StartAppiumByCode - ---Stopping Appium Server----
+2024-31-11 14:31:11.190 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-31-11 14:31:31.016 [main] INFO  Utility.LoggerInfo - App is open
+2024-31-11 14:31:31.016 [main] INFO  TestClass - Application Launch
+2024-31-11 14:31:35.799 [main] INFO  TestClass - Google news title present
+2024-31-11 14:31:45.820 [main] INFO  BaseLayer.StartAppiumByCode - ---Stopping Appium Server----
+2024-33-11 14:33:57.500 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-34-11 14:34:16.789 [main] INFO  Utility.LoggerInfo - App is open
+2024-34-11 14:34:16.789 [main] INFO  TestClass - Application Launch
+2024-34-11 14:34:20.963 [main] INFO  TestClass - Google news title present
+2024-34-11 14:34:29.333 [main] INFO  BaseLayer.StartAppiumByCode - ---Stopping Appium Server----
+2024-46-11 14:46:05.500 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-46-11 14:46:25.271 [main] INFO  Utility.LoggerInfo - App is open
+2024-46-11 14:46:25.272 [main] INFO  TestClass - Application Launch
+2024-46-11 14:46:30.624 [main] INFO  TestClass - Google news title present
+2024-46-11 14:46:42.212 [main] INFO  BaseLayer.StartAppiumByCode - ---Stopping Appium Server----
+2024-53-11 14:53:59.268 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-54-11 14:54:18.465 [main] INFO  Utility.LoggerInfo - App is open
+2024-54-11 14:54:18.466 [main] INFO  TestClass - Application Launch
+2024-54-11 14:54:24.317 [main] INFO  TestClass - Google news title present
+2024-54-11 14:54:34.081 [main] INFO  BaseLayer.StartAppiumByCode - ---Stopping Appium Server----
+2024-55-11 14:55:14.961 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-55-11 14:55:33.532 [main] INFO  Utility.LoggerInfo - App is open
+2024-55-11 14:55:33.532 [main] INFO  TestClass - Application Launch
+2024-55-11 14:55:39.447 [main] INFO  TestClass - Google news title present
+2024-55-11 14:55:49.260 [main] INFO  BaseLayer.StartAppiumByCode - ---Stopping Appium Server----
+2024-56-11 14:56:52.330 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-57-11 14:57:10.868 [main] INFO  Utility.LoggerInfo - App is open
+2024-57-11 14:57:10.868 [main] INFO  TestClass - Application Launch
+2024-57-11 14:57:17.267 [main] INFO  TestClass - Google news title present
+2024-57-11 14:57:20.217 [main] INFO  Utility.LoggerInfo - Wait for 2000
+2024-57-11 14:57:23.608 [main] INFO  Utility.LoggerInfo - Wait for 1000
+2024-57-11 14:57:25.494 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-57-11 14:57:32.049 [main] INFO  BaseLayer.StartAppiumByCode - ---Stopping Appium Server----
+2024-00-11 15:00:07.355 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-00-11 15:00:25.949 [main] INFO  Utility.LoggerInfo - App is open
+2024-00-11 15:00:25.949 [main] INFO  TestClass - Application Launch
+2024-00-11 15:00:30.878 [main] INFO  TestClass - Google news title present
+2024-00-11 15:00:32.191 [main] INFO  Utility.LoggerInfo - Wait for 2000
+2024-00-11 15:00:35.103 [main] INFO  Utility.LoggerInfo - Wait for 1000
+2024-00-11 15:00:36.988 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-00-11 15:00:43.607 [main] INFO  BaseLayer.StartAppiumByCode - ---Stopping Appium Server----
+2024-01-11 15:01:33.306 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-01-11 15:01:51.843 [main] INFO  Utility.LoggerInfo - App is open
+2024-01-11 15:01:51.843 [main] INFO  TestClass - Application Launch
+2024-01-11 15:01:56.977 [main] INFO  TestClass - Google news title present
+2024-01-11 15:01:58.343 [main] INFO  Utility.LoggerInfo - Wait for 2000
+2024-02-11 15:02:01.765 [main] INFO  Utility.LoggerInfo - Wait for 1000
+2024-02-11 15:02:03.668 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-02-11 15:02:10.237 [main] INFO  BaseLayer.StartAppiumByCode - ---Stopping Appium Server----
+2024-21-11 16:21:47.578 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-22-11 16:22:06.734 [main] INFO  Utility.LoggerInfo - App is open
+2024-22-11 16:22:06.735 [main] INFO  TestClass - Application Launch
+2024-22-11 16:22:14.343 [main] INFO  TestClass - Google news title present
+2024-22-11 16:22:15.813 [main] INFO  Utility.LoggerInfo - Wait for 2000
+2024-22-11 16:22:19.139 [main] INFO  Utility.LoggerInfo - Wait for 1000
+2024-22-11 16:22:21.155 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-23-11 16:23:30.881 [main] INFO  BaseLayer.StartAppiumByCode - ---Stopping Appium Server----
+2024-23-11 16:23:52.360 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-24-11 16:24:10.912 [main] INFO  Utility.LoggerInfo - App is open
+2024-24-11 16:24:10.912 [main] INFO  TestClass - Application Launch
+2024-24-11 16:24:16.775 [main] INFO  TestClass - Google news title present
+2024-24-11 16:24:18.256 [main] INFO  Utility.LoggerInfo - Wait for 2000
+2024-24-11 16:24:21.160 [main] INFO  Utility.LoggerInfo - Wait for 1000
+2024-24-11 16:24:23.140 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-25-11 16:25:31.486 [main] INFO  BaseLayer.StartAppiumByCode - ---Stopping Appium Server----
+2024-34-11 16:34:07.962 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-34-11 16:34:26.054 [main] INFO  Utility.LoggerInfo - App is open
+2024-34-11 16:34:26.055 [main] INFO  TestClass - Application Launch
+2024-34-11 16:34:29.805 [main] INFO  TestClass - Google news title present
+2024-34-11 16:34:32.793 [main] INFO  Utility.LoggerInfo - Wait for 2000
+2024-34-11 16:34:35.684 [main] INFO  Utility.LoggerInfo - Wait for 1000
+2024-34-11 16:34:37.597 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-34-11 16:34:45.057 [main] INFO  BaseLayer.StartAppiumByCode - ---Stopping Appium Server----
+2024-35-11 16:35:47.488 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-36-11 16:36:05.965 [main] INFO  Utility.LoggerInfo - App is open
+2024-36-11 16:36:05.965 [main] INFO  TestClass - Application Launch
+2024-36-11 16:36:12.411 [main] INFO  TestClass - Google news title present
+2024-36-11 16:36:14.254 [main] INFO  Utility.LoggerInfo - Wait for 2000
+2024-36-11 16:36:17.172 [main] INFO  Utility.LoggerInfo - Wait for 1000
+2024-36-11 16:36:19.035 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-38-11 16:38:32.858 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-38-11 16:38:50.754 [main] INFO  Utility.LoggerInfo - App is open
+2024-38-11 16:38:50.755 [main] INFO  TestClass - Application Launch
+2024-38-11 16:38:56.454 [main] INFO  TestClass - Google news title present
+2024-38-11 16:38:57.905 [main] INFO  Utility.LoggerInfo - Wait for 2000
+2024-39-11 16:39:00.161 [main] INFO  Utility.LoggerInfo - Wait for 1000
+2024-39-11 16:39:02.032 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-08-11 17:08:03.114 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-08-11 17:08:13.209 [main] INFO  BaseLayer.StartAppiumByCode - ---Stopping Appium Server----
+2024-08-11 17:08:56.577 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-09-11 17:09:06.651 [main] INFO  BaseLayer.StartAppiumByCode - ---Stopping Appium Server----
+2024-09-11 17:09:54.382 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-10-11 17:10:04.452 [main] INFO  BaseLayer.StartAppiumByCode - ---Stopping Appium Server----
+2024-10-11 17:10:40.429 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-10-11 17:10:50.486 [main] INFO  BaseLayer.StartAppiumByCode - ---Stopping Appium Server----
+2024-11-11 17:11:20.508 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-11-11 17:11:39.800 [main] INFO  Utility.LoggerInfo - App is open
+2024-11-11 17:11:39.801 [main] INFO  TestClass - Application Launch
+2024-11-11 17:11:45.890 [main] INFO  TestClass - Google news title present
+2024-11-11 17:11:47.165 [main] INFO  Utility.LoggerInfo - Wait for 2000
+2024-11-11 17:11:49.432 [main] INFO  Utility.LoggerInfo - Wait for 1000
+2024-11-11 17:11:51.323 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-12-11 17:12:58.738 [main] INFO  BaseLayer.StartAppiumByCode - ---Stopping Appium Server----
+2024-15-11 17:15:04.207 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-15-11 17:15:22.183 [main] INFO  Utility.LoggerInfo - App is open
+2024-15-11 17:15:22.184 [main] INFO  TestClass - Application Launch
+2024-15-11 17:15:26.497 [main] INFO  TestClass - Google news title present
+2024-15-11 17:15:27.849 [main] INFO  Utility.LoggerInfo - Wait for 2000
+2024-15-11 17:15:30.755 [main] INFO  Utility.LoggerInfo - Wait for 1000
+2024-15-11 17:15:32.613 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-16-11 17:16:26.217 [main] INFO  BaseLayer.StartAppiumByCode - ---Stopping Appium Server----
+2024-17-11 17:17:33.699 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-17-11 17:17:52.324 [main] INFO  Utility.LoggerInfo - App is open
+2024-17-11 17:17:52.324 [main] INFO  TestClass - Application Launch
+2024-17-11 17:17:57.557 [main] INFO  TestClass - Google news title present
+2024-17-11 17:17:58.906 [main] INFO  Utility.LoggerInfo - Wait for 2000
+2024-18-11 17:18:01.896 [main] INFO  Utility.LoggerInfo - Wait for 1000
+2024-18-11 17:18:03.786 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-18-11 17:18:54.341 [main] INFO  BaseLayer.StartAppiumByCode - ---Stopping Appium Server----
+2024-22-11 17:22:30.461 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-22-11 17:22:49.576 [main] INFO  Utility.LoggerInfo - App is open
+2024-22-11 17:22:49.576 [main] INFO  TestClass - Application Launch
+2024-22-11 17:22:55.106 [main] INFO  TestClass - Google news title present
+2024-22-11 17:22:57.120 [main] INFO  Utility.LoggerInfo - Wait for 2000
+2024-23-11 17:23:00.012 [main] INFO  Utility.LoggerInfo - Wait for 1000
+2024-23-11 17:23:01.918 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-23-11 17:23:53.087 [main] INFO  BaseLayer.StartAppiumByCode - ---Stopping Appium Server----
+2024-41-11 17:41:54.810 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-42-11 17:42:14.024 [main] INFO  Utility.LoggerInfo - App is open
+2024-42-11 17:42:14.024 [main] INFO  TestClass - Application Launch
+2024-42-11 17:42:19.644 [main] INFO  TestClass - Google news title present
+2024-42-11 17:42:21.097 [main] INFO  Utility.LoggerInfo - Wait for 2000
+2024-42-11 17:42:23.967 [main] INFO  Utility.LoggerInfo - Wait for 1000
+2024-42-11 17:42:25.842 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-43-11 17:43:14.006 [main] INFO  BaseLayer.StartAppiumByCode - ---Stopping Appium Server----
+2024-48-11 17:48:57.001 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-49-11 17:49:15.179 [main] INFO  Utility.LoggerInfo - App is open
+2024-49-11 17:49:15.180 [main] INFO  TestClass - Application Launch
+2024-49-11 17:49:20.742 [main] INFO  TestClass - Google news title present
+2024-49-11 17:49:22.151 [main] INFO  Utility.LoggerInfo - Wait for 2000
+2024-49-11 17:49:25.059 [main] INFO  Utility.LoggerInfo - Wait for 1000
+2024-49-11 17:49:26.964 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-50-11 17:50:14.792 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-50-11 17:50:21.474 [main] INFO  BaseLayer.StartAppiumByCode - ---Stopping Appium Server----
+2024-53-11 17:53:49.633 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-54-11 17:54:08.993 [main] INFO  Utility.LoggerInfo - App is open
+2024-54-11 17:54:08.994 [main] INFO  TestClass - Application Launch
+2024-54-11 17:54:13.935 [main] INFO  TestClass - Google news title present
+2024-54-11 17:54:15.859 [main] INFO  Utility.LoggerInfo - Wait for 2000
+2024-54-11 17:54:18.748 [main] INFO  Utility.LoggerInfo - Wait for 1000
+2024-54-11 17:54:20.651 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-55-11 17:55:08.271 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-55-11 17:55:14.893 [main] INFO  BaseLayer.StartAppiumByCode - ---Stopping Appium Server----
+2024-13-11 18:13:49.388 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-14-11 18:14:07.568 [main] INFO  Utility.LoggerInfo - App is open
+2024-14-11 18:14:07.568 [main] INFO  TestClass - Application Launch
+2024-14-11 18:14:13.016 [main] INFO  TestClass - Google news title present
+2024-14-11 18:14:14.330 [main] INFO  Utility.LoggerInfo - Wait for 2000
+2024-14-11 18:14:17.232 [main] INFO  Utility.LoggerInfo - Wait for 1000
+2024-14-11 18:14:19.111 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-15-11 18:15:20.241 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-15-11 18:15:26.783 [main] INFO  BaseLayer.StartAppiumByCode - ---Stopping Appium Server----
+2024-18-11 18:18:05.673 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-18-11 18:18:23.712 [main] INFO  Utility.LoggerInfo - App is open
+2024-18-11 18:18:23.712 [main] INFO  TestClass - Application Launch
+2024-18-11 18:18:29.989 [main] INFO  TestClass - Google news title present
+2024-18-11 18:18:31.480 [main] INFO  Utility.LoggerInfo - Wait for 2000
+2024-18-11 18:18:34.373 [main] INFO  Utility.LoggerInfo - Wait for 1000
+2024-18-11 18:18:36.255 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-19-11 18:19:27.337 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-19-11 18:19:33.942 [main] INFO  BaseLayer.StartAppiumByCode - ---Stopping Appium Server----
+2024-20-11 18:20:21.166 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-20-11 18:20:39.805 [main] INFO  Utility.LoggerInfo - App is open
+2024-20-11 18:20:39.805 [main] INFO  TestClass - Application Launch
+2024-20-11 18:20:45.097 [main] INFO  TestClass - Google news title present
+2024-20-11 18:20:46.529 [main] INFO  Utility.LoggerInfo - Wait for 2000
+2024-20-11 18:20:49.419 [main] INFO  Utility.LoggerInfo - Wait for 1000
+2024-20-11 18:20:51.309 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-21-11 18:21:54.605 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-22-11 18:22:02.541 [main] INFO  BaseLayer.StartAppiumByCode - ---Stopping Appium Server----
+2024-06-12 12:06:06.417 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-06-12 12:06:26.616 [main] INFO  Utility.LoggerInfo - App is open
+2024-06-12 12:06:26.616 [main] INFO  TestClass - Application Launch
+2024-06-12 12:06:31.524 [main] INFO  TestClass - Google news title present
+2024-06-12 12:06:32.936 [main] INFO  Utility.LoggerInfo - Wait for 2000
+2024-06-12 12:06:35.832 [main] INFO  Utility.LoggerInfo - Wait for 1000
+2024-06-12 12:06:37.769 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-39-13 12:39:19.113 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-39-13 12:39:40.397 [main] INFO  Utility.LoggerInfo - App is open
+2024-39-13 12:39:40.397 [main] INFO  TestClass - Application Launch
+2024-39-13 12:39:46.815 [main] INFO  TestClass - Google news title present
+2024-39-13 12:39:47.809 [main] INFO  Utility.LoggerInfo - Wait for 2000
+2024-39-13 12:39:50.949 [main] INFO  Utility.LoggerInfo - Wait for 1000
+2024-39-13 12:39:53.184 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-41-13 12:41:16.252 [main] INFO  BaseLayer.StartAppiumByCode - ---Stopping Appium Server----
+2024-42-13 12:42:17.267 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-42-13 12:42:36.380 [main] INFO  Utility.LoggerInfo - App is open
+2024-42-13 12:42:36.381 [main] INFO  TestClass - Application Launch
+2024-42-13 12:42:41.070 [main] INFO  TestClass - Google news title present
+2024-42-13 12:42:42.169 [main] INFO  Utility.LoggerInfo - Wait for 2000
+2024-42-13 12:42:45.145 [main] INFO  Utility.LoggerInfo - Wait for 1000
+2024-42-13 12:42:47.040 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-44-13 12:44:19.705 [main] INFO  BaseLayer.StartAppiumByCode - ---Stopping Appium Server----
+2024-51-13 14:51:56.350 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-52-13 14:52:13.649 [main] INFO  Utility.LoggerInfo - App is open
+2024-52-13 14:52:13.649 [main] INFO  TestClass - Application Launch
+2024-52-13 14:52:19.468 [main] INFO  TestClass - Google news title present
+2024-52-13 14:52:20.032 [main] INFO  Utility.LoggerInfo - Wait for 2000
+2024-52-13 14:52:22.835 [main] INFO  Utility.LoggerInfo - Wait for 1000
+2024-52-13 14:52:25.106 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-52-13 14:52:47.643 [main] INFO  BaseLayer.StartAppiumByCode - ---Stopping Appium Server----
+2024-53-13 14:53:35.096 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-53-13 14:53:52.396 [main] INFO  Utility.LoggerInfo - App is open
+2024-53-13 14:53:52.396 [main] INFO  TestClass - Application Launch
+2024-54-13 14:54:12.869 [main] INFO  BaseLayer.StartAppiumByCode - ---Stopping Appium Server----
+2024-00-13 15:00:50.505 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-01-13 15:01:06.704 [main] INFO  Utility.LoggerInfo - App is open
+2024-01-13 15:01:06.704 [main] INFO  TestClass - Application Launch
+2024-01-13 15:01:11.316 [main] INFO  TestClass - Google news title present
+2024-01-13 15:01:12.181 [main] INFO  Utility.LoggerInfo - Wait for 2000
+2024-01-13 15:01:15.031 [main] INFO  Utility.LoggerInfo - Wait for 1000
+2024-01-13 15:01:18.299 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-01-13 15:01:38.977 [main] INFO  BaseLayer.StartAppiumByCode - ---Stopping Appium Server----
+2024-03-13 15:03:51.153 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-04-13 15:04:07.444 [main] INFO  Utility.LoggerInfo - App is open
+2024-04-13 15:04:07.444 [main] INFO  TestClass - Application Launch
+2024-04-13 15:04:11.928 [main] INFO  TestClass - Google news title present
+2024-04-13 15:04:12.548 [main] INFO  Utility.LoggerInfo - Wait for 2000
+2024-04-13 15:04:15.372 [main] INFO  Utility.LoggerInfo - Wait for 1000
+2024-04-13 15:04:16.557 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-04-13 15:04:31.267 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-05-13 15:05:42.690 [main] INFO  BaseLayer.StartAppiumByCode - ---Stopping Appium Server----
+2024-10-13 15:10:36.789 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-10-13 15:10:53.788 [main] INFO  Utility.LoggerInfo - App is open
+2024-10-13 15:10:53.788 [main] INFO  TestClass - Application Launch
+2024-10-13 15:10:59.575 [main] INFO  TestClass - Google news title present
+2024-11-13 15:11:01.685 [main] INFO  Utility.LoggerInfo - Wait for 2000
+2024-11-13 15:11:04.592 [main] INFO  Utility.LoggerInfo - Wait for 1000
+2024-11-13 15:11:06.349 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-11-13 15:11:20.685 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-19-13 15:19:36.052 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-19-13 15:19:52.453 [main] INFO  Utility.LoggerInfo - App is open
+2024-19-13 15:19:52.453 [main] INFO  TestClass - Application Launch
+2024-19-13 15:19:57.529 [main] INFO  TestClass - Google news title present
+2024-19-13 15:19:58.765 [main] INFO  Utility.LoggerInfo - Wait for 2000
+2024-20-13 15:20:01.543 [main] INFO  Utility.LoggerInfo - Wait for 1000
+2024-20-13 15:20:02.994 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-25-13 15:25:29.791 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-25-13 15:25:40.621 [main] INFO  Utility.LoggerInfo - App is open
+2024-25-13 15:25:40.621 [main] INFO  TestClass - Application Launch
+2024-30-13 15:30:39.424 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-30-13 15:30:54.645 [main] INFO  Utility.LoggerInfo - App is open
+2024-30-13 15:30:54.645 [main] INFO  TestClass - Application Launch
+2024-31-13 15:31:27.636 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-31-13 15:31:42.768 [main] INFO  Utility.LoggerInfo - App is open
+2024-31-13 15:31:42.768 [main] INFO  TestClass - Application Launch
+2024-33-13 15:33:55.926 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-34-13 15:34:08.462 [main] INFO  Utility.LoggerInfo - App is open
+2024-34-13 15:34:08.462 [main] INFO  TestClass - Application Launch
+2024-34-13 15:34:08.462 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-34-13 15:34:28.086 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-34-13 15:34:42.975 [main] INFO  Utility.LoggerInfo - App is open
+2024-34-13 15:34:42.975 [main] INFO  TestClass - Application Launch
+2024-34-13 15:34:42.975 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-36-13 15:36:18.426 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-36-13 15:36:33.589 [main] INFO  Utility.LoggerInfo - App is open
+2024-36-13 15:36:33.589 [main] INFO  TestClass - Application Launch
+2024-36-13 15:36:33.590 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-50-13 17:50:29.157 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-50-13 17:50:43.943 [main] INFO  Utility.LoggerInfo - App is open
+2024-50-13 17:50:43.943 [main] INFO  TestClass - Application Launch
+2024-50-13 17:50:43.944 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-57-13 17:57:18.229 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-57-13 17:57:32.758 [main] INFO  Utility.LoggerInfo - App is open
+2024-57-13 17:57:32.758 [main] INFO  TestClass - Application Launch
+2024-57-13 17:57:32.758 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-57-13 17:57:39.640 [main] INFO  TestClass - Google news title present
+2024-57-13 17:57:40.811 [main] INFO  Utility.LoggerInfo - Wait for 2000
+2024-57-13 17:57:43.670 [main] INFO  Utility.LoggerInfo - Wait for 1000
+2024-57-13 17:57:45.929 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-57-13 17:57:57.679 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-58-13 17:58:21.907 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-58-13 17:58:37.965 [main] INFO  Utility.LoggerInfo - App is open
+2024-58-13 17:58:37.965 [main] INFO  TestClass - Application Launch
+2024-58-13 17:58:37.965 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-04-13 18:04:14.805 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-04-13 18:04:31.289 [main] INFO  Utility.LoggerInfo - App is open
+2024-04-13 18:04:31.289 [main] INFO  TestClass - Application Launch
+2024-04-13 18:04:31.289 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-05-13 18:05:05.336 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-05-13 18:05:22.377 [main] INFO  Utility.LoggerInfo - App is open
+2024-05-13 18:05:22.377 [main] INFO  TestClass - Application Launch
+2024-05-13 18:05:22.377 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-08-13 18:08:44.989 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-09-13 18:09:00.959 [main] INFO  Utility.LoggerInfo - App is open
+2024-09-13 18:09:00.959 [main] INFO  TestClass - Application Launch
+2024-09-13 18:09:00.959 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-09-13 18:09:09.770 [main] INFO  TestClass - Google news title present
+2024-09-13 18:09:11.198 [main] INFO  Utility.LoggerInfo - Wait for 2000
+2024-09-13 18:09:14.041 [main] INFO  Utility.LoggerInfo - Wait for 1000
+2024-09-13 18:09:15.530 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-09-13 18:09:51.756 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-10-13 18:10:06.864 [main] INFO  Utility.LoggerInfo - App is open
+2024-10-13 18:10:06.865 [main] INFO  TestClass - Application Launch
+2024-10-13 18:10:06.865 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-11-13 18:11:42.001 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-11-13 18:11:56.972 [main] INFO  Utility.LoggerInfo - App is open
+2024-11-13 18:11:56.972 [main] INFO  TestClass - Application Launch
+2024-11-13 18:11:56.972 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-16-13 18:16:48.549 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-17-13 18:17:03.639 [main] INFO  Utility.LoggerInfo - App is open
+2024-17-13 18:17:03.639 [main] INFO  TestClass - Application Launch
+2024-17-13 18:17:03.640 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-17-13 18:17:10.077 [main] INFO  Utility.LoggerInfo - ENter in for loop
+2024-17-13 18:17:10.546 [main] INFO  Utility.LoggerInfo - Click on alert massage
+2024-17-13 18:17:13.229 [main] INFO  TestClass - Google news title present
+2024-17-13 18:17:14.529 [main] INFO  Utility.LoggerInfo - Wait for 2000
+2024-17-13 18:17:17.381 [main] INFO  Utility.LoggerInfo - Wait for 1000
+2024-17-13 18:17:18.559 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-20-13 18:20:48.994 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-21-13 18:21:04.086 [main] INFO  Utility.LoggerInfo - App is open
+2024-21-13 18:21:04.087 [main] INFO  TestClass - Application Launch
+2024-21-13 18:21:04.087 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-21-13 18:21:10.472 [main] INFO  Utility.LoggerInfo - ENter in for loop
+2024-21-13 18:21:10.949 [main] INFO  Utility.LoggerInfo - Click on alert massage
+2024-21-13 18:21:12.793 [main] INFO  TestClass - Google news title present
+2024-21-13 18:21:14.297 [main] INFO  Utility.LoggerInfo - Wait for 2000
+2024-21-13 18:21:17.132 [main] INFO  Utility.LoggerInfo - Wait for 1000
+2024-21-13 18:21:18.329 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-22-13 18:22:05.289 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-22-13 18:22:21.351 [main] INFO  Utility.LoggerInfo - App is open
+2024-22-13 18:22:21.351 [main] INFO  TestClass - Application Launch
+2024-22-13 18:22:21.351 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-26-13 18:26:19.506 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-26-13 18:26:33.560 [main] INFO  Utility.LoggerInfo - App is open
+2024-26-13 18:26:33.560 [main] INFO  TestClass - Application Launch
+2024-26-13 18:26:33.560 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-29-13 18:29:39.152 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-29-13 18:29:54.331 [main] INFO  Utility.LoggerInfo - App is open
+2024-29-13 18:29:54.331 [main] INFO  TestClass - Application Launch
+2024-29-13 18:29:54.331 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-30-13 18:30:51.504 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-31-13 18:31:06.557 [main] INFO  Utility.LoggerInfo - App is open
+2024-31-13 18:31:06.557 [main] INFO  TestClass - Application Launch
+2024-31-13 18:31:06.558 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-34-13 18:34:31.629 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-34-13 18:34:45.708 [main] INFO  Utility.LoggerInfo - App is open
+2024-34-13 18:34:45.708 [main] INFO  TestClass - Application Launch
+2024-34-13 18:34:45.708 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-41-13 18:41:40.064 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-41-13 18:41:55.482 [main] INFO  Utility.LoggerInfo - App is open
+2024-41-13 18:41:55.482 [main] INFO  TestClass - Application Launch
+2024-41-13 18:41:55.482 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-42-13 18:42:00.962 [main] INFO  Utility.LoggerInfo - ALERT IS NOT PRESENT !! 
+2024-44-13 18:44:27.124 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-44-13 18:44:42.101 [main] INFO  Utility.LoggerInfo - App is open
+2024-44-13 18:44:42.101 [main] INFO  TestClass - Application Launch
+2024-44-13 18:44:42.101 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-44-13 18:44:47.597 [main] INFO  Utility.LoggerInfo - ALERT IS NOT PRESENT !! 
+2024-44-13 18:44:47.597 [main] INFO  Utility.LoggerInfo - ALERT IS NOT PRESENT !!
+2024-44-13 18:44:48.684 [main] INFO  TestClass - Google news title present
+2024-44-13 18:44:49.935 [main] INFO  Utility.LoggerInfo - Wait for 2000
+2024-44-13 18:44:52.744 [main] INFO  Utility.LoggerInfo - Wait for 1000
+2024-44-13 18:44:53.954 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-46-13 18:46:19.844 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-46-13 18:46:35.992 [main] INFO  Utility.LoggerInfo - App is open
+2024-46-13 18:46:35.993 [main] INFO  TestClass - Application Launch
+2024-46-13 18:46:35.993 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-46-13 18:46:41.315 [main] INFO  Utility.LoggerInfo - ALERT IS PRESENT !! 
+2024-46-13 18:46:43.390 [main] INFO  TestClass - Google news title present
+2024-46-13 18:46:44.871 [main] INFO  Utility.LoggerInfo - Wait for 2000
+2024-46-13 18:46:47.698 [main] INFO  Utility.LoggerInfo - Wait for 1000
+2024-46-13 18:46:48.907 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-47-13 18:47:49.619 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-48-13 18:48:05.637 [main] INFO  Utility.LoggerInfo - App is open
+2024-48-13 18:48:05.637 [main] INFO  TestClass - Application Launch
+2024-48-13 18:48:05.637 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-48-13 18:48:39.917 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-48-13 18:48:54.941 [main] INFO  Utility.LoggerInfo - App is open
+2024-48-13 18:48:54.941 [main] INFO  TestClass - Application Launch
+2024-48-13 18:48:54.941 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-49-13 18:49:00.827 [main] INFO  Utility.LoggerInfo - ALERT IS NOT PRESENT !! 
+2024-49-13 18:49:00.828 [main] INFO  Utility.LoggerInfo - ALERT IS NOT PRESENT !!
+2024-49-13 18:49:02.019 [main] INFO  TestClass - Google news title present
+2024-49-13 18:49:04.204 [main] INFO  Utility.LoggerInfo - Wait for 2000
+2024-49-13 18:49:07.111 [main] INFO  Utility.LoggerInfo - Wait for 1000
+2024-49-13 18:49:08.291 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-49-13 18:49:21.100 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-13-14 11:13:51.862 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-14-14 11:14:10.782 [main] INFO  Utility.LoggerInfo - App is open
+2024-14-14 11:14:10.782 [main] INFO  TestClass - Application Launch
+2024-14-14 11:14:10.782 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-14-14 11:14:16.352 [main] INFO  Utility.LoggerInfo - ALERT IS NOT PRESENT !! 
+2024-14-14 11:14:16.353 [main] INFO  Utility.LoggerInfo - ALERT IS NOT PRESENT !!
+2024-14-14 11:14:50.534 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-15-14 11:15:05.683 [main] INFO  Utility.LoggerInfo - App is open
+2024-15-14 11:15:05.683 [main] INFO  TestClass - Application Launch
+2024-15-14 11:15:05.684 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-15-14 11:15:11.023 [main] INFO  Utility.LoggerInfo - ALERT IS NOT PRESENT !! 
+2024-15-14 11:15:11.023 [main] INFO  Utility.LoggerInfo - ALERT IS NOT PRESENT !!
+2024-16-14 11:16:02.167 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-16-14 11:16:18.930 [main] INFO  Utility.LoggerInfo - App is open
+2024-16-14 11:16:18.930 [main] INFO  TestClass - Application Launch
+2024-16-14 11:16:18.930 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-16-14 11:16:24.261 [main] INFO  Utility.LoggerInfo - ALERT IS PRESENT !! 
+2024-16-14 11:16:28.109 [main] INFO  TestClass - Google news title present
+2024-16-14 11:16:29.850 [main] INFO  Utility.LoggerInfo - Wait for 2000
+2024-16-14 11:16:32.798 [main] INFO  Utility.LoggerInfo - Wait for 1000
+2024-16-14 11:16:34.432 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-16-14 11:16:56.868 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-18-14 11:18:16.880 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-18-14 11:18:31.998 [main] INFO  Utility.LoggerInfo - App is open
+2024-18-14 11:18:31.998 [main] INFO  TestClass - Application Launch
+2024-18-14 11:18:31.998 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-18-14 11:18:37.424 [main] INFO  Utility.LoggerInfo - ALERT IS NOT PRESENT !! 
+2024-18-14 11:18:37.425 [main] INFO  Utility.LoggerInfo - ALERT IS NOT PRESENT !!
