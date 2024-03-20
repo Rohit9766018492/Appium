@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Bookmarks Test suite">
+    <test name="Google news">
+        <classes>
+            <class name="TestClass">
+                <methods>
+                    <include name="GoogleAppLaunch"/>
+                    <include name="testScrollPageVertically"/>
+                    <include name="testPageScrollHorizontally"/>
+                    <include name="testListScrollHorizontally"/>
+                    <include name="getdata1"/>
+
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

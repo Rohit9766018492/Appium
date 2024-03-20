@@ -1,6 +1,7 @@
 package Utility;
 
 
+import BaseLayer.AndroidBaseClass;
 import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
@@ -9,6 +10,7 @@ public class Listener extends ScreenShot implements ITestListener {
     @Override
     public void onTestStart(ITestResult iTestResult) {
         System.out.println("<<-----Test case Start----->>"+iTestResult.getName());
+        restartApp();
     }
 
     @Override
@@ -19,7 +21,8 @@ public class Listener extends ScreenShot implements ITestListener {
     @Override
     public void onTestFailure(ITestResult iTestResult) {
         System.out.println("<<-----Test case Failure----->>"+iTestResult.getName());
-        takeScreenshot();
+        String s=iTestResult.getName();
+        takeScreenshot(s);
         changeOrientation();
     }
 
@@ -36,6 +39,7 @@ public class Listener extends ScreenShot implements ITestListener {
     @Override
     public void onStart(ITestContext iTestContext) {
         System.out.println("<<-----Test case Start 2222----->>"+iTestContext.getName());
+        launchAndroidApplication();
     }
 
     @Override

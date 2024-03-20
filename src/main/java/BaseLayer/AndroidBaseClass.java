@@ -1,6 +1,7 @@
 package BaseLayer;
 
 import Utility.LoggerInfo;
+import io.appium.java_client.MobileBy;
 import io.appium.java_client.MobileElement;
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.remote.MobileCapabilityType;
@@ -12,6 +13,7 @@ import org.openqa.selenium.ScreenOrientation;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Test;
 
 import java.io.FileInputStream;
 import java.io.InputStream;
@@ -22,7 +24,7 @@ import java.util.Properties;
 public class AndroidBaseClass {
 
     public static AndroidDriver driver;
-    public static Logger log;
+    public static Logger log= LogManager.getLogger(LoggerInfo.class);;
 
     public static Properties pro;
     public AndroidBaseClass()
@@ -39,7 +41,7 @@ public class AndroidBaseClass {
     }
     public void launchApp()
     {
-        log= LogManager.getLogger(LoggerInfo.class);
+
 
         DesiredCapabilities dc=new DesiredCapabilities();
         dc.setCapability(MobileCapabilityType.AUTOMATION_NAME,"UiAutomator2");
@@ -84,6 +86,7 @@ public class AndroidBaseClass {
         }
         log.info("App is open");
     }
+
     public void wait(int time)
     {try {
         log.info("Wait for "+time);
@@ -93,6 +96,49 @@ public class AndroidBaseClass {
     {
         e.printStackTrace();
     }
+    }
+
+    public static void launchAndroidApplication() {
+
+        DesiredCapabilities dc=new DesiredCapabilities();
+        dc.setCapability(MobileCapabilityType.AUTOMATION_NAME,"UiAutomator2");
+        dc.setCapability(MobileCapabilityType.PLATFORM_NAME,"Android");
+
+        String deviceName=pro.getProperty("deviceName");
+        System.out.println("Device Name --->" +deviceName);
+
+        if(deviceName.contains("Pixel 6 Pro - MA1925"))
+        {
+            dc.setCapability(MobileCapabilityType.PLATFORM_VERSION, "14");
+            dc.setCapability(MobileCapabilityType.DEVICE_NAME, "Pixel 6 Pro - MA1925");
+            dc.setCapability(MobileCapabilityType.UDID, "1C091FDEE0095R");
+        }
+        else if (deviceName.contains("Pixel 5"))
+        {
+            dc.setCapability(MobileCapabilityType.PLATFORM_VERSION,"14");
+            dc.setCapability(MobileCapabilityType.DEVICE_NAME,"Pixel 5");
+            dc.setCapability(MobileCapabilityType.UDID,"16051FDD4003FJ");
+        }
+        else if (deviceName.contains("Galaxy"))
+        {
+            dc.setCapability(MobileCapabilityType.DEVICE_NAME,"Galaxy A31");
+            dc.setCapability(MobileCapabilityType.PLATFORM_VERSION,"12");
+            dc.setCapability(MobileCapabilityType.UDID,"RZ8N821XZLJ");
+            log.info("------ Galaxy A31 Device found -------");
+        }
+        else
+        {
+            log.info("------ Device not found -------");
+        }
+
+        // Sending capabilities to android device
+        try {
+            URL url = new URL("http://0.0.0.0:4723");
+            driver = new AndroidDriver(url, dc);
+            log.info("!!!!!!! Android Driver Session Started Successfully !!!!!!!");
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
     }
 
     public void clickWebElements(String Locator)
@@ -120,6 +166,76 @@ public class AndroidBaseClass {
         }
         driver.runAppInBackground(Duration.ofSeconds(10));
 
+    }
+    @Test
+    public void restartApp()
+    {
+        driver.terminateApp(pro.getProperty("appPackage"));
+        wait(10000);
+        driver.activateApp(pro.getProperty("appPackage"));
+    }
+    public void scrollPageVerticallyTillElementFound(String xpath){
+        boolean value = false;
+        try {
+            value = driver.findElement(By.xpath(xpath)).isDisplayed();
+            System.out.println("value value ::: " +value);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+        for(int i=0; i<30; i++) {
+            if (value == true) {
+                driver.findElement(By.xpath(xpath)).click();
+            } else {
+                driver.findElement(MobileBy.AndroidUIAutomator("new UiScrollable(new UiSelector().scrollable(true)).scrollForward().setAsHorizontalList()"));
+                try {
+                    value = driver.findElement(By.xpath(xpath)).isDisplayed();
+                    System.out.println("value value ::: " +value);
+                } catch (Exception e) {
+                    e.printStackTrace();
+                }
+            }
+            i++;
+        }
+    }
+//    public void scrollPageViewHorizontallyTillElementFound(String xpath){
+//        driver.findElementByAndroidUIAutomator("new UiScrollable(new UiSelector().scrollable(true).instance(0))." +
+//                "setAsHorizontalList().scrollIntoView(new UiSelector().textContains(\""+xpath+"\").instance(0))");
+//    }
+    public void scrollPageVerticallyTillElementFound(String xpath, boolean click){
+        boolean value = false;
+        try {
+            value = driver.findElement(By.xpath(xpath)).isDisplayed();
+            System.out.println("value value ::: " +value);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        for(int i=0; i<30; i++) {
+            if (value == true) {
+                if(click=true){
+                    driver.findElement(By.xpath(xpath)).click();
+                }
+            } else {
+                driver.findElement(MobileBy.AndroidUIAutomator("new UiScrollable(new UiSelector().scrollable(true)).scrollForward()"));
+                try {
+                    value = driver.findElement(By.xpath(xpath)).isDisplayed();
+                    System.out.println("value value ::: " +value);
+                } catch (Exception e) {
+                    e.printStackTrace();
+                }
+            }
+            i++;
+        }
+    }
+    public void scrollPageViewHorizontallyTillElementFound(String text)
+    {
+        driver.findElementByAndroidUIAutomator("new UiScrollable(new UiSelector().scrollable(true).instance(0))." +
+                "setAsHorizontalList().scrollIntoView(new UiSelector().textContains(\""+text+"\").instance(0))");
+    }
+    public void scrollTopList(String xpath)
+    {
+        driver.findElementByAndroidUIAutomator("new UiScrollable(new UiSelector().scrollable(true).instance(1))." +
+                "setAsHorizontalList().scrollIntoView(new UiSelector().textContains(\""+xpath+"\").instance(1))");
     }
 
 }

@@ -525,3 +525,200 @@
 2024-18-14 11:18:31.998 [main] INFO  Utility.LoggerInfo - Wait for 5000
 2024-18-14 11:18:37.424 [main] INFO  Utility.LoggerInfo - ALERT IS NOT PRESENT !! 
 2024-18-14 11:18:37.425 [main] INFO  Utility.LoggerInfo - ALERT IS NOT PRESENT !!
+2024-26-18 17:26:35.284 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-26-18 17:26:46.316 [main] INFO  Utility.LoggerInfo - App is open
+2024-26-18 17:26:46.316 [main] INFO  TestClass - Application Launch
+2024-26-18 17:26:46.316 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-26-18 17:26:51.321 [main] INFO  Utility.LoggerInfo - ALERT IS NOT PRESENT !! 
+2024-26-18 17:26:51.322 [main] INFO  Utility.LoggerInfo - ALERT IS NOT PRESENT !!
+2024-27-18 17:27:39.718 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-27-18 17:27:50.274 [main] INFO  Utility.LoggerInfo - App is open
+2024-27-18 17:27:50.274 [main] INFO  TestClass - Application Launch
+2024-27-18 17:27:50.275 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-27-18 17:27:55.288 [main] INFO  Utility.LoggerInfo - ALERT IS NOT PRESENT !! 
+2024-27-18 17:27:55.288 [main] INFO  Utility.LoggerInfo - ALERT IS NOT PRESENT !!
+2024-28-18 17:28:57.396 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-29-18 17:29:14.082 [main] INFO  Utility.LoggerInfo - App is open
+2024-29-18 17:29:14.083 [main] INFO  TestClass - Application Launch
+2024-29-18 17:29:14.083 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-29-18 17:29:19.993 [main] INFO  Utility.LoggerInfo - ALERT IS NOT PRESENT !! 
+2024-29-18 17:29:19.993 [main] INFO  Utility.LoggerInfo - ALERT IS NOT PRESENT !!
+2024-29-18 17:29:22.028 [main] INFO  TestClass - Google news title present
+2024-29-18 17:29:23.627 [main] INFO  Utility.LoggerInfo - Wait for 2000
+2024-29-18 17:29:26.534 [main] INFO  Utility.LoggerInfo - Wait for 1000
+2024-29-18 17:29:27.701 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-30-18 17:30:49.281 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-31-18 17:31:04.925 [main] INFO  Utility.LoggerInfo - App is open
+2024-31-18 17:31:04.925 [main] INFO  TestClass - Application Launch
+2024-31-18 17:31:04.925 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-31-18 17:31:10.834 [main] INFO  Utility.LoggerInfo - ALERT IS NOT PRESENT !! 
+2024-31-18 17:31:10.834 [main] INFO  Utility.LoggerInfo - ALERT IS NOT PRESENT !!
+2024-31-18 17:31:11.383 [main] INFO  Utility.LoggerInfo - Wait for 10000
+2024-31-18 17:31:25.312 [main] INFO  TestClass - Google news title present
+2024-31-18 17:31:26.901 [main] INFO  Utility.LoggerInfo - Wait for 2000
+2024-31-18 17:31:29.795 [main] INFO  Utility.LoggerInfo - Wait for 1000
+2024-31-18 17:31:31.941 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-42-18 17:42:10.534 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-42-18 17:42:27.778 [main] INFO  Utility.LoggerInfo - App is open
+2024-42-18 17:42:27.778 [main] INFO  TestClass - Application Launch
+2024-42-18 17:42:27.778 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-42-18 17:42:33.591 [main] INFO  Utility.LoggerInfo - ALERT IS NOT PRESENT !! 
+2024-42-18 17:42:33.592 [main] INFO  Utility.LoggerInfo - ALERT IS NOT PRESENT !!
+2024-42-18 17:42:34.167 [main] INFO  Utility.LoggerInfo - Wait for 10000
+2024-42-18 17:42:47.348 [main] INFO  TestClass - Google news title present
+2024-00-19 11:00:35.351 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-00-19 11:00:55.223 [main] INFO  Utility.LoggerInfo - App is open
+2024-00-19 11:00:55.223 [main] INFO  TestClass - Application Launch
+2024-00-19 11:00:55.223 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-01-19 11:01:01.323 [main] INFO  Utility.LoggerInfo - ALERT IS NOT PRESENT !! 
+2024-01-19 11:01:01.323 [main] INFO  Utility.LoggerInfo - ALERT IS NOT PRESENT !!
+2024-01-19 11:01:01.958 [main] INFO  Utility.LoggerInfo - Wait for 10000
+2024-01-19 11:01:16.025 [main] INFO  TestClass - Google news title present
+2024-01-19 11:01:37.452 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-02-19 11:02:09.408 [main] INFO  Utility.LoggerInfo - App is open
+2024-02-19 11:02:09.408 [main] INFO  TestClass - Application Launch
+2024-02-19 11:02:09.408 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-02-19 11:02:14.409 [main] INFO  Utility.LoggerInfo - ALERT IS NOT PRESENT !! 
+2024-02-19 11:02:14.409 [main] INFO  Utility.LoggerInfo - ALERT IS NOT PRESENT !!
+2024-03-19 11:03:25.304 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-03-19 11:03:42.716 [main] INFO  Utility.LoggerInfo - App is open
+2024-03-19 11:03:42.716 [main] INFO  TestClass - Application Launch
+2024-03-19 11:03:42.717 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-03-19 11:03:48.241 [main] INFO  Utility.LoggerInfo - ALERT IS NOT PRESENT !! 
+2024-03-19 11:03:48.241 [main] INFO  Utility.LoggerInfo - ALERT IS NOT PRESENT !!
+2024-03-19 11:03:48.816 [main] INFO  Utility.LoggerInfo - Wait for 10000
+2024-04-19 11:04:03.541 [main] INFO  TestClass - Google news title present
+2024-06-19 11:06:28.891 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-06-19 11:06:45.746 [main] INFO  Utility.LoggerInfo - App is open
+2024-06-19 11:06:45.747 [main] INFO  TestClass - Application Launch
+2024-06-19 11:06:45.747 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-06-19 11:06:52.147 [main] INFO  Utility.LoggerInfo - ALERT IS NOT PRESENT !! 
+2024-06-19 11:06:52.148 [main] INFO  Utility.LoggerInfo - ALERT IS NOT PRESENT !!
+2024-06-19 11:06:52.767 [main] INFO  Utility.LoggerInfo - Wait for 10000
+2024-07-19 11:07:06.089 [main] INFO  TestClass - Google news title present
+2024-07-19 11:07:06.089 [main] INFO  Utility.LoggerInfo - Clicking on five button
+2024-07-19 11:07:07.054 [main] INFO  Utility.LoggerInfo - Wait for 2000
+2024-07-19 11:07:09.968 [main] INFO  Utility.LoggerInfo - Wait for 1000
+2024-07-19 11:07:12.376 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-19-19 11:19:34.075 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-19-19 11:19:46.605 [main] INFO  Utility.LoggerInfo - App is open
+2024-19-19 11:19:46.605 [main] INFO  TestClass - Application Launch
+2024-19-19 11:19:46.605 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-19-19 11:19:51.612 [main] INFO  Utility.LoggerInfo - ALERT IS NOT PRESENT !! 
+2024-19-19 11:19:51.612 [main] INFO  Utility.LoggerInfo - ALERT IS NOT PRESENT !!
+2024-38-19 17:38:02.066 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-44-19 17:44:53.617 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-46-19 17:46:31.457 [main] INFO  BaseLayer.StartAppiumByCode - ---Starting Appium Server----
+2024-48-19 17:48:15.910 [main] INFO  Utility.LoggerInfo - App is open
+2024-48-19 17:48:15.912 [main] INFO  TestClass - Application Launch
+2024-48-19 17:48:16.700 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-48-19 17:48:22.403 [main] INFO  Utility.LoggerInfo - ALERT IS NOT PRESENT !! 
+2024-48-19 17:48:22.403 [main] INFO  Utility.LoggerInfo - ALERT IS NOT PRESENT !!
+2024-48-19 17:48:23.055 [main] INFO  Utility.LoggerInfo - Wait for 10000
+2024-48-19 17:48:38.088 [main] INFO  TestClass - Google news title present
+2024-48-19 17:48:38.088 [main] INFO  Utility.LoggerInfo - Clicking on five button
+2024-48-19 17:48:39.821 [main] INFO  Utility.LoggerInfo - Wait for 2000
+2024-48-19 17:48:42.086 [main] INFO  Utility.LoggerInfo - Wait for 1000
+2024-48-19 17:48:44.376 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-58-19 17:58:00.965 [main] INFO  TestClass - Application Launch
+2024-07-19 18:07:07.238 [main] INFO  TestClass - Application Launch
+2024-08-19 18:08:34.841 [main] INFO  TestClass - Application Launch
+2024-11-19 18:11:23.341 [main] INFO  TestClass - Application Launch
+2024-15-19 18:15:12.093 [main] INFO  Utility.LoggerInfo - ------ Galaxy A31 Device found -------
+2024-15-19 18:15:16.182 [main] INFO  Utility.LoggerInfo - !!!!!!! Android Driver Session Started Successfully !!!!!!!
+2024-15-19 18:15:16.206 [main] INFO  TestClass - Application Launch
+2024-15-19 18:15:17.882 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-15-19 18:15:23.618 [main] INFO  Utility.LoggerInfo - ALERT IS NOT PRESENT !! 
+2024-15-19 18:15:23.618 [main] INFO  Utility.LoggerInfo - ALERT IS NOT PRESENT !!
+2024-15-19 18:15:24.197 [main] INFO  Utility.LoggerInfo - Wait for 10000
+2024-15-19 18:15:36.462 [main] INFO  TestClass - Google news title present
+2024-15-19 18:15:36.462 [main] INFO  Utility.LoggerInfo - Clicking on five button
+2024-15-19 18:15:37.416 [main] INFO  Utility.LoggerInfo - Wait for 2000
+2024-15-19 18:15:40.326 [main] INFO  Utility.LoggerInfo - Wait for 1000
+2024-15-19 18:15:42.209 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-17-19 18:17:22.340 [main] INFO  Utility.LoggerInfo - ------ Galaxy A31 Device found -------
+2024-17-19 18:17:27.481 [main] INFO  Utility.LoggerInfo - !!!!!!! Android Driver Session Started Successfully !!!!!!!
+2024-17-19 18:17:28.136 [main] INFO  Utility.LoggerInfo - Wait for 10000
+2024-17-19 18:17:38.357 [main] INFO  Utility.LoggerInfo - Wait for 3000
+2024-18-19 18:18:12.999 [main] INFO  Utility.LoggerInfo - ------ Galaxy A31 Device found -------
+2024-18-19 18:18:18.321 [main] INFO  Utility.LoggerInfo - !!!!!!! Android Driver Session Started Successfully !!!!!!!
+2024-18-19 18:18:18.344 [main] INFO  Utility.LoggerInfo - Wait for 3000
+2024-18-19 18:18:21.897 [main] INFO  Utility.LoggerInfo - Wait for 10000
+2024-18-19 18:18:32.128 [main] INFO  Utility.LoggerInfo - Wait for 3000
+2024-21-19 18:21:09.418 [main] INFO  Utility.LoggerInfo - ------ Galaxy A31 Device found -------
+2024-21-19 18:21:14.627 [main] INFO  Utility.LoggerInfo - !!!!!!! Android Driver Session Started Successfully !!!!!!!
+2024-21-19 18:21:14.659 [main] INFO  Utility.LoggerInfo - Wait for 3000
+2024-21-19 18:21:18.347 [main] INFO  Utility.LoggerInfo - Wait for 10000
+2024-21-19 18:21:28.561 [main] INFO  Utility.LoggerInfo - Wait for 3000
+2024-21-19 18:21:33.556 [main] INFO  Utility.LoggerInfo - Wait for 3000
+2024-22-19 18:22:46.093 [main] INFO  Utility.LoggerInfo - ------ Galaxy A31 Device found -------
+2024-22-19 18:22:51.324 [main] INFO  Utility.LoggerInfo - !!!!!!! Android Driver Session Started Successfully !!!!!!!
+2024-22-19 18:22:51.969 [main] INFO  Utility.LoggerInfo - Wait for 10000
+2024-23-19 18:23:02.149 [main] INFO  Utility.LoggerInfo - Wait for 3000
+2024-23-19 18:23:08.658 [main] INFO  Utility.LoggerInfo - Wait for 3000
+2024-24-19 18:24:53.626 [main] INFO  Utility.LoggerInfo - ------ Galaxy A31 Device found -------
+2024-24-19 18:24:57.707 [main] INFO  Utility.LoggerInfo - !!!!!!! Android Driver Session Started Successfully !!!!!!!
+2024-24-19 18:24:58.446 [main] INFO  Utility.LoggerInfo - Wait for 10000
+2024-25-19 18:25:08.661 [main] INFO  Utility.LoggerInfo - Wait for 3000
+2024-25-19 18:25:13.776 [main] INFO  Utility.LoggerInfo - Wait for 3000
+2024-42-19 18:42:43.596 [main] INFO  Utility.LoggerInfo - ------ Galaxy A31 Device found -------
+2024-42-19 18:42:47.754 [main] INFO  Utility.LoggerInfo - !!!!!!! Android Driver Session Started Successfully !!!!!!!
+2024-42-19 18:42:47.779 [main] INFO  TestClass - Application Launch
+2024-42-19 18:42:50.169 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-42-19 18:42:55.982 [main] INFO  Utility.LoggerInfo - ALERT IS NOT PRESENT !! 
+2024-42-19 18:42:55.982 [main] INFO  Utility.LoggerInfo - ALERT IS NOT PRESENT !!
+2024-42-19 18:42:56.631 [main] INFO  Utility.LoggerInfo - Wait for 10000
+2024-43-19 18:43:10.841 [main] INFO  TestClass - Google news title present
+2024-43-19 18:43:10.841 [main] INFO  Utility.LoggerInfo - Clicking on five button
+2024-43-19 18:43:12.442 [main] INFO  Utility.LoggerInfo - Wait for 2000
+2024-43-19 18:43:15.334 [main] INFO  Utility.LoggerInfo - Wait for 1000
+2024-43-19 18:43:17.204 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-43-19 18:43:45.112 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-44-19 18:44:14.180 [main] INFO  Utility.LoggerInfo - Wait for 10000
+2024-44-19 18:44:24.383 [main] INFO  Utility.LoggerInfo - Wait for 3000
+2024-45-19 18:45:03.184 [main] INFO  Utility.LoggerInfo - Wait for 3000
+2024-45-19 18:45:06.362 [main] INFO  Utility.LoggerInfo - Wait for 10000
+2024-45-19 18:45:16.578 [main] INFO  Utility.LoggerInfo - Wait for 3000
+2024-45-19 18:45:32.799 [main] INFO  Utility.LoggerInfo - Wait for 10000
+2024-45-19 18:45:42.945 [main] INFO  Utility.LoggerInfo - Wait for 3000
+2024-47-19 18:47:00.818 [main] INFO  Utility.LoggerInfo - ------ Galaxy A31 Device found -------
+2024-47-19 18:47:06.651 [main] INFO  Utility.LoggerInfo - !!!!!!! Android Driver Session Started Successfully !!!!!!!
+2024-47-19 18:47:06.674 [main] INFO  TestClass - Application Launch
+2024-47-19 18:47:06.848 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-47-19 18:47:13.117 [main] INFO  Utility.LoggerInfo - ALERT IS NOT PRESENT !! 
+2024-47-19 18:47:13.117 [main] INFO  Utility.LoggerInfo - ALERT IS NOT PRESENT !!
+2024-47-19 18:47:13.475 [main] INFO  Utility.LoggerInfo - Wait for 10000
+2024-47-19 18:47:37.527 [main] INFO  Utility.LoggerInfo - Wait for 10000
+2024-47-19 18:47:47.709 [main] INFO  Utility.LoggerInfo - Wait for 3000
+2024-48-19 18:48:25.178 [main] INFO  Utility.LoggerInfo - Wait for 3000
+2024-48-19 18:48:28.327 [main] INFO  Utility.LoggerInfo - Wait for 10000
+2024-48-19 18:48:38.539 [main] INFO  Utility.LoggerInfo - Wait for 3000
+2024-48-19 18:48:53.431 [main] INFO  Utility.LoggerInfo - Wait for 10000
+2024-49-19 18:49:03.636 [main] INFO  Utility.LoggerInfo - Wait for 3000
+2024-49-19 18:49:32.682 [main] INFO  Utility.LoggerInfo - ------ Galaxy A31 Device found -------
+2024-49-19 18:49:38.991 [main] INFO  Utility.LoggerInfo - !!!!!!! Android Driver Session Started Successfully !!!!!!!
+2024-49-19 18:49:39.215 [main] INFO  Utility.LoggerInfo - Wait for 10000
+2024-49-19 18:49:49.456 [main] INFO  TestClass - Application Launch
+2024-49-19 18:49:51.520 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-49-19 18:49:57.091 [main] INFO  Utility.LoggerInfo - ALERT IS NOT PRESENT !! 
+2024-49-19 18:49:57.091 [main] INFO  Utility.LoggerInfo - ALERT IS NOT PRESENT !!
+2024-49-19 18:49:57.566 [main] INFO  Utility.LoggerInfo - Wait for 10000
+2024-50-19 18:50:11.521 [main] INFO  TestClass - Google news title present
+2024-50-19 18:50:11.521 [main] INFO  Utility.LoggerInfo - Clicking on five button
+2024-50-19 18:50:14.308 [main] INFO  Utility.LoggerInfo - Wait for 2000
+2024-50-19 18:50:17.217 [main] INFO  Utility.LoggerInfo - Wait for 1000
+2024-50-19 18:50:19.096 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-50-19 18:50:45.926 [main] INFO  Utility.LoggerInfo - Wait for 5000
+2024-51-19 18:51:09.949 [main] INFO  Utility.LoggerInfo - Wait for 10000
+2024-51-19 18:51:20.294 [main] INFO  Utility.LoggerInfo - Wait for 10000
+2024-51-19 18:51:30.496 [main] INFO  Utility.LoggerInfo - Wait for 3000
+2024-52-19 18:52:12.211 [main] INFO  Utility.LoggerInfo - Wait for 10000
+2024-52-19 18:52:22.425 [main] INFO  Utility.LoggerInfo - Wait for 3000
+2024-52-19 18:52:25.591 [main] INFO  Utility.LoggerInfo - Wait for 10000
+2024-52-19 18:52:35.759 [main] INFO  Utility.LoggerInfo - Wait for 3000
+2024-52-19 18:52:41.219 [main] INFO  Utility.LoggerInfo - Wait for 3000
+2024-53-19 18:53:07.628 [main] INFO  Utility.LoggerInfo - Wait for 10000
+2024-53-19 18:53:18.410 [main] INFO  Utility.LoggerInfo - Wait for 10000
+2024-53-19 18:53:28.651 [main] INFO  Utility.LoggerInfo - Wait for 3000
+2024-53-19 18:53:32.545 [main] INFO  Utility.LoggerInfo - Wait for 3000
+2024-53-19 18:53:41.905 [main] INFO  Utility.LoggerInfo - Wait for 10000

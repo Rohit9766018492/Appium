@@ -2,10 +2,12 @@ package org.example;
 
 import BaseLayer.AndroidBaseClass;
 import com.google.common.primitives.Ints;
+import io.appium.java_client.MobileDriver;
 import io.appium.java_client.MobileElement;
 import jdk.nashorn.internal.runtime.regexp.joni.exception.InternalException;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.touch.TouchActions;
 import org.testng.annotations.Test;
 
 import java.util.*;
@@ -40,6 +42,16 @@ public class locatorsAndMethods extends AndroidBaseClass {
        return present;
 
     }
+    
+    public void dragAndDrop(String Elementxpath, String LocatonXpath)
+    {
+        WebElement element = driver.findElement(By.xpath(Elementxpath));
+        WebElement drop= driver.findElement(By.xpath(LocatonXpath));
+
+        TouchActions act=new TouchActions((MobileDriver)driver);
+        act.longPress(element).moveToElement(drop).release().perform();
+    }
+    
     public boolean isElementPresent(String locator){
 
         try{
@@ -521,5 +533,23 @@ public void removeDupliacte()
             }
         }
     }
+
+    @Test
+    public void maxInArray()
+    {
+        int a[]={1,2,3,4,5,6,7,8,9};
+        int b[]={12,54,78,95,25,32,64,01};
+
+
+            int max = b[0];
+
+            for (int i = 0; i < b.length; i++) {
+                if (b[i] > max) {
+                    max = b[i];
+                }
+            }
+            System.out.println(max);
+        }
+
 
 }
